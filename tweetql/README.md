@@ -25,7 +25,7 @@ https://studio.apollographql.com/public/star-wars-swapi/variant/current/explorer
 
 ## 1. 아폴로 서버 사용
 아폴로 서버를 사용하면 손쉽게 GraphQL을 사용할 수 있다. \
-GraphQL 스키마를 작성하고, 데이터 소스를 연결하고, 데이터를 가져오는 방법을 작성하면 된다. \
+GraphQL 스키마를 작성하고, 데이터 소스를 연결하고, 데이터를 가져오는 방법을 작성하면 된다.
 
 https://www.apollographql.com/docs/apollo-server/
 
@@ -174,8 +174,8 @@ const resolvers = {
 기존 REST API를 GraphQL 서버로 랩핑하면서 REST API의 장점을 그대로 가져올 수 있다. \
 (성능저하 등은 확인을 해봐야 할 듯...)
 
-영화 \
-https://yts.mx/api/v2/list_movies.json
+영화 API \
+https://yts.mx/api/v2/list_movies.json \
 https://yts.mx/api/v2/movie_details.json?movie_id=52582
 
 <br>
@@ -189,3 +189,9 @@ https://nomadcoders.co/graphql-for-beginners/lectures/3703
 생활코딩 GraphQL 강의 \
 https://www.youtube.com/watch?v=c6qHnYa9pUk&t=2s
 
+<br>
+
+# GraphQL 공부
+https://www.notion.so/wishty/GraphQL-Vs-REST-6a6b3b560447485c8c6f97bf2050b897
+
+https://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/
